@@ -9,4 +9,4 @@
 
 
 
-[![Seven's GitHub stats](https://github-readme-stats.vercel.app/api?username=royallwealth&show_icons=true&theme=onedark)
+![Seven's GitHub stats](https://github-readme-stats.vercel.app/api?username=royallwealth&show_icons=true&theme=onedark)
