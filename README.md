@@ -1,4 +1,4 @@
-### Hey Everyone, I'm Seven! 🦋 
+### Hey Everyone 🦋 
 
 🖥️ Aspiring Digital Forensics Analyst with a passion for technology.<br/>
 📚 Studied Computer Science at [Florida International University](https://www.fiu.edu/).<br/>
