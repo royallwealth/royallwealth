@@ -1,6 +1,6 @@
 ### Hey Everyone 🦋 
 
-🖥️ Aspiring Digital Forensics/ SOC Analyst with a passion for technology.<br/>
+🖥️ Aspiring Digital Forensics / SOC Analyst with a passion for technology.<br/>
 📚 Studied Computer Science at [Florida International University](https://www.fiu.edu/).<br/>
 ⇆ Self-taught and dedicated to mastering the art of coding through platforms:<br/>
 📃 Udemy, YouTube, HackTheBox, MDN, etc...<br/>
