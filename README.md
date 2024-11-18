@@ -4,7 +4,7 @@
 📚 Studied Computer Science at [Florida International University](https://www.fiu.edu/).<br/>
 ⇆ Self-taught and dedicated to mastering the art of coding through platforms:<br/>
 📃 Udemy, YouTube, HackTheBox, MDN, etc...<br/>
-💭 Currently learning [SOC Analyst][(https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/home/module/1)) on Coursera.<br/>
+💭 Currently learning [Digital Forensics][(https://www.coursera.org/learn/digital-forensics-essentials-dfe/home/module/1) on Coursera.<br/>
 👩🏽‍💻Currently learning [Python][(https://www.udemy.com/course/100-days-of-code/?couponCode=MTST7102224B2) on Udemy with Dr. Angela Yu.<br/>
 
 
